@@ -1,0 +1,2 @@
+hello10000 from source txt
+hello from dest.file
